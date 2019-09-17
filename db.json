@@ -1,0 +1,54 @@
+{
+  "actividades": [
+    {
+      "Id": 1,
+      "Nombre": "Abdomen simple",
+      "Fecha": "10/10/2020",
+      "Prioridad": "Urgente",
+      "NombrePaciente": "Apellido1 Apellido2, Nombre",
+      "EdadPaciente": 43,
+      "MRN": "123456789",
+      "NHC": "987654321"
+    },
+    {
+      "Id": 2,
+      "Nombre": "Abdomen simple",
+      "Fecha": "10/10/2020",
+      "Prioridad": "Urgente",
+      "NombrePaciente": "Apellido1 Apellido2, Nombre",
+      "EdadPaciente": 43,
+      "MRN": "123456789",
+      "NHC": "987654321"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Abdomen simple",
+      "Fecha": "10/10/2020",
+      "Prioridad": "Urgente",
+      "NombrePaciente": "Apellido1 Apellido2, Nombre",
+      "EdadPaciente": 43,
+      "MRN": "123456789",
+      "NHC": "987654321"
+    },
+    {
+      "Id": 4,
+      "Nombre": "Abdomen simple",
+      "Fecha": "10/10/2020",
+      "Prioridad": "Urgente",
+      "NombrePaciente": "Apellido1 Apellido2, Nombre",
+      "EdadPaciente": 43,
+      "MRN": "123456789",
+      "NHC": "987654321"
+    },
+    {
+      "Id": 5,
+      "Nombre": "Abdomen simple",
+      "Fecha": "10/10/2020",
+      "Prioridad": "Urgente",
+      "NombrePaciente": "Apellido1 Apellido2, Nombre",
+      "EdadPaciente": 43,
+      "MRN": "123456789",
+      "NHC": "987654321"
+    }
+  ]
+}
