@@ -50,5 +50,27 @@
       "mrn": "123456789",
       "nhc": "987654321"
     }
+  ],
+  "subscripciones": [
+    {
+      "id": 1,
+      "nombre": "Abdomen simple",
+      "fecha": "10/10/2020",
+      "prioridad": "Urgente",
+      "nombrePaciente": "Apellido1 Apellido2, Nombre",
+      "edadPaciente": 43,
+      "mrn": "123456789",
+      "nhc": "987654321"
+    },
+    {
+      "id": 2,
+      "nombre": "Abdomen simple",
+      "fecha": "10/10/2020",
+      "prioridad": "Urgente",
+      "nombrePaciente": "Apellido1 Apellido2, Nombre",
+      "edadPaciente": 43,
+      "mrn": "123456789",
+      "nhc": "987654321"
+    }
   ]
 }
