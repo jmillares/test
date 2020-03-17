@@ -72,5 +72,170 @@
       "mrn": "123456789",
       "nhc": "987654321"
     }
+  ],
+  "expedientes":[
+  {
+  "idTramitacion": 1,
+  "titular": {
+    "idTitular": 0,
+    "nome": "string",
+    "apelido1": "string",
+    "apelido2": "string",
+    "nif": "string",
+    "datosContacto": {
+      "idDatosContacto": 0,
+      "tipoVia": "string",
+      "nomeVia": "string",
+      "numero": "string",
+      "bloque": "string",
+      "andar": "string",
+      "porta": "string",
+      "lugar": "string",
+      "provincia": {
+        "idProvincia": 0,
+        "codProvincia": 0,
+        "nome": "string"
+      },
+      "concello": {
+        "idConcello": 0,
+        "idProvincia": 0,
+        "codConcello": 0,
+        "nome": "string"
+      },
+      "parroquia": {
+        "idParroquia": 0,
+        "idConcello": 0,
+        "codParroquia": 0,
+        "nome": "string"
+      },
+      "localidade": "string",
+      "telefono": "string",
+      "fax": "string",
+      "mobil": "string",
+      "email": "string",
+      "codigoPostal": "string"
+    },
+    "resfor": "string"
+  },
+  "representante": {
+    "idRepresentante": 0,
+    "nif": "string",
+    "nome": "string",
+    "apelido1": "string",
+    "apelido2": "string"
+  },
+  "suspension": {
+    "idSuspension": 0,
+    "motivoSuspension": {
+      "idMotivoSuspension": 0,
+      "codigo": "string",
+      "activo": true,
+      "descricion": "string",
+      "descricionES": "string"
+    },
+    "notificacion": {
+      "idNotificacion": 0,
+      "dataRexistro": "string",
+      "dataNotificacion": "string",
+      "estado": "string",
+      "observacion": "string"
+    },
+    "data": "string",
+    "observacion": "string"
+  },
+  "historico": [
+    {
+      "idHistorico": 0,
+      "usuario": {
+        "idUsuarioAplicacion": 0,
+        "usuario": "string",
+        "nome": "string",
+        "rol": {
+          "idRol": 0,
+          "nome": "string",
+          "descripcion": "string",
+          "fechaRegistro": "string",
+          "borrado": true
+        },
+        "fechaRegistro": "string",
+        "podeResolver": true,
+        "podeAsignarAxenteTecnico": true,
+        "distrito": 0,
+        "cargo": "string",
+        "externo": true,
+        "email": "string",
+        "nif": "string",
+        "organismo": "string",
+        "activo": true,
+        "borrado": true,
+        "token": "string"
+      },
+      "descripcion": "string",
+      "fechaRegistro": "string"
+    }
+  ],
+  "documentos": [
+    {
+      "idDocumento": 1,
+      "nome": "Documento 1",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 2,
+      "nome": "Documento 2",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 3,
+      "nome": "Documento 3",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 4,
+      "nome": "Documento 4",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 5,
+      "nome": "Documento 5",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+{
+      "idDocumento": 6,
+      "nome": "Documento 6",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 7,
+      "nome": "Documento 7",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 8,
+      "nome": "Documento 8",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 9,
+      "nome": "Documento 9",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    },
+    {
+      "idDocumento": 10,
+      "nome": "Documento 10",
+      "contentType": "application/pdf",
+      "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
+    }
+  ]
+}
   ]
 }
