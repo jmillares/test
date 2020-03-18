@@ -75,7 +75,7 @@
   ],
   "expedientes":[
   {
-  "idTramitacion": 1,
+  "id": 1,
   "titular": {
     "idTitular": 0,
     "nome": "string",
