@@ -148,8 +148,8 @@
           "idHistorico": 1,
           "usuario": {
             "idUsuarioAplicacion": 0,
-            "usuario": "Usuario Usuario, Usuario",
-            "nome": "string",
+            "usuario": "string",
+            "nome": "Usuario Usuario, Usuario",
             "rol": {
               "idRol": 0,
               "nome": "string",
@@ -177,8 +177,8 @@
           "idHistorico": 2,
           "usuario": {
             "idUsuarioAplicacion": 0,
-            "usuario": "Usuario Usuario, Usuario",
-            "nome": "string",
+            "usuario": "string",
+            "nome": "Usuario Usuario, Usuario",
             "rol": {
               "idRol": 0,
               "nome": "string",
@@ -206,8 +206,8 @@
           "idHistorico": 3,
           "usuario": {
             "idUsuarioAplicacion": 0,
-            "usuario": "Usuario Usuario, Usuario",
-            "nome": "string",
+            "usuario": "string",
+            "nome": "Usuario Usuario, Usuario",
             "rol": {
               "idRol": 0,
               "nome": "string",
@@ -235,8 +235,8 @@
           "idHistorico": 4,
           "usuario": {
             "idUsuarioAplicacion": 0,
-            "usuario": "Usuario Usuario, Usuario",
-            "nome": "string",
+            "usuario": "string",
+            "nome": "Usuario Usuario, Usuario",
             "rol": {
               "idRol": 0,
               "nome": "string",
@@ -264,8 +264,8 @@
           "idHistorico": 5,
           "usuario": {
             "idUsuarioAplicacion": 0,
-            "usuario": "Usuario Usuario, Usuario",
-            "nome": "string",
+            "usuario": "string",
+            "nome": "Usuario Usuario, Usuario",
             "rol": {
               "idRol": 0,
               "nome": "string",
