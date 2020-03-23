@@ -78,51 +78,51 @@
       "id": 1,
       "titular": {
         "idTitular": 0,
-        "nome": "string",
-        "apelido1": "string",
-        "apelido2": "string",
-        "nif": "string",
+        "nome": "Nome",
+        "apelido1": "Apelido 1",
+        "apelido2": "Apelido 2",
+        "nif": "123456789A",
         "datosContacto": {
           "idDatosContacto": 0,
-          "tipoVia": "string",
-          "nomeVia": "string",
-          "numero": "string",
-          "bloque": "string",
-          "andar": "string",
-          "porta": "string",
-          "lugar": "string",
+          "tipoVia": "Rúa",
+          "nomeVia": "Corredoira",
+          "numero": "1",
+          "bloque": "",
+          "andar": "1",
+          "porta": "A",
+          "lugar": "Noia",
           "provincia": {
-            "idProvincia": 0,
-            "codProvincia": 0,
-            "nome": "string"
+            "idProvincia": 1,
+            "codProvincia": 15,
+            "nome": "A Coruña"
           },
           "concello": {
             "idConcello": 0,
             "idProvincia": 0,
             "codConcello": 0,
-            "nome": "string"
+            "nome": "Noia"
           },
           "parroquia": {
             "idParroquia": 0,
             "idConcello": 0,
             "codParroquia": 0,
-            "nome": "string"
+            "nome": "Noia (San Martín)"
           },
-          "localidade": "string",
-          "telefono": "string",
-          "fax": "string",
-          "mobil": "string",
-          "email": "string",
-          "codigoPostal": "string"
+          "localidade": "Noia",
+          "telefono": "111222333",
+          "fax": "111222333",
+          "mobil": "111222333",
+          "email": "correo@electronico.gal",
+          "codigoPostal": "15200"
         },
         "resfor": "string"
       },
       "representante": {
         "idRepresentante": 0,
-        "nif": "string",
-        "nome": "string",
-        "apelido1": "string",
-        "apelido2": "string"
+        "nif": "123456789A",
+        "nome": "Nome",
+        "apelido1": "Apelido 1",
+        "apelido2": "Apelido 2"
       },
       "suspension": {
         "idSuspension": 0,
