@@ -201,93 +201,6 @@
           },
           "descripcion": "Descripción 2",
           "fechaRegistro": "02/01/2020"
-        },
-        {
-          "idHistorico": 3,
-          "usuario": {
-            "idUsuarioAplicacion": 0,
-            "usuario": "string",
-            "nome": "Usuario Usuario, Usuario",
-            "rol": {
-              "idRol": 0,
-              "nome": "string",
-              "descripcion": "string",
-              "fechaRegistro": "string",
-              "borrado": true
-            },
-            "fechaRegistro": "string",
-            "podeResolver": true,
-            "podeAsignarAxenteTecnico": true,
-            "distrito": 0,
-            "cargo": "string",
-            "externo": true,
-            "email": "string",
-            "nif": "string",
-            "organismo": "string",
-            "activo": true,
-            "borrado": true,
-            "token": "string"
-          },
-          "descripcion": "Descripción 3",
-          "fechaRegistro": "03/01/2020"
-        },
-        {
-          "idHistorico": 4,
-          "usuario": {
-            "idUsuarioAplicacion": 0,
-            "usuario": "string",
-            "nome": "Usuario Usuario, Usuario",
-            "rol": {
-              "idRol": 0,
-              "nome": "string",
-              "descripcion": "string",
-              "fechaRegistro": "string",
-              "borrado": true
-            },
-            "fechaRegistro": "string",
-            "podeResolver": true,
-            "podeAsignarAxenteTecnico": true,
-            "distrito": 0,
-            "cargo": "string",
-            "externo": true,
-            "email": "string",
-            "nif": "string",
-            "organismo": "string",
-            "activo": true,
-            "borrado": true,
-            "token": "string"
-          },
-          "descripcion": "Descripción 4",
-          "fechaRegistro": "04/01/2020"
-        },
-        {
-          "idHistorico": 5,
-          "usuario": {
-            "idUsuarioAplicacion": 0,
-            "usuario": "string",
-            "nome": "Usuario Usuario, Usuario",
-            "rol": {
-              "idRol": 0,
-              "nome": "string",
-              "descripcion": "string",
-              "fechaRegistro": "string",
-              "borrado": true
-            },
-            "fechaRegistro": "string",
-            "podeResolver": true,
-            "podeAsignarAxenteTecnico": true,
-            "distrito": 0,
-            "cargo": "string",
-            "externo": true,
-            "email": "string",
-            "nif": "string",
-            "organismo": "string",
-            "activo": true,
-            "borrado": true,
-            "token": "string"
-          },
-          "descripcion": "Descripción 5",
-          "fechaRegistro": "05/01/2020"
         }
       ],
       "documentos": [
@@ -302,26 +215,32 @@
           "nome": "Documento 2",
           "contentType": "application/pdf",
           "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
-        },
-        {
-          "idDocumento": 3,
-          "nome": "Documento 3",
-          "contentType": "application/pdf",
-          "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
-        },
-        {
-          "idDocumento": 4,
-          "nome": "Documento 4",
-          "contentType": "application/pdf",
-          "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
-        },
-        {
-          "idDocumento": 5,
-          "nome": "Documento 5",
-          "contentType": "application/pdf",
-          "url": "https://www.xunta.gal/dog/Publicados/2014/20140605/AnuncioG0165-280514-0001_es.pdf"
         }
       ]
+    }
+  ],
+  "tramitacions": [
+    {
+      "id": 1,
+      "informeAxente": {
+        "idInformeAxente": 0,
+        "dataEmision": "string",
+        "idAxente": 0,
+        "observacion": "string",
+        "planeamentoUrbanistico": "string",
+        "aproveitamento": "string",
+        "observacions": "string",
+        "proposta": "string"
+      },
+      "informeTecnico": {
+        "idInformeTecnico": 0,
+        "dataEmision": "string",
+        "idTecnico": 0,
+        "modoResolucion": "string",
+        "idResponsableResolucion": 0,
+        "observacion": "string",
+        "proposta": "string"
+      }
     }
   ]
 }
