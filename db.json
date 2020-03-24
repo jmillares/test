@@ -241,6 +241,28 @@
         "observacion": "string",
         "proposta": "string"
       }
+    },
+    {
+      "id": 2,
+      "informeAxente": {
+        "idInformeAxente": 0,
+        "dataEmision": "string",
+        "idAxente": 0,
+        "observacion": "string",
+        "planeamentoUrbanistico": "string",
+        "aproveitamento": "string",
+        "observacions": "string",
+        "proposta": "string"
+      },
+      "informeTecnico": {
+        "idInformeTecnico": 0,
+        "dataEmision": "string",
+        "idTecnico": 0,
+        "modoResolucion": "string",
+        "idResponsableResolucion": 0,
+        "observacion": "string",
+        "proposta": "string"
+      }
     }
   ]
 }
